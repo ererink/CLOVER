@@ -26,10 +26,10 @@
 <img src="assets/%EB%A7%88%EC%9D%BC%EC%8A%A4%ED%86%A4.png" width = 550 height = 300> <br>
 <br>
 
-<strong> 1️⃣ 기획: </strong> : 05.03 - 05.09 <br>
-<strong> 2️⃣ 분석 및 설계: </strong> : 05.06 - 05.16 <br>
-<strong> 3️⃣ 메인 서비스 구축: </strong> : 05.14 - 05.29 <br>
-<strong> 4️⃣ 서비스 점검: </strong> : 05.29 - 05.30 <br>
+<strong> 1️⃣ 기획: </strong> 05.03 - 05.09 <br>
+<strong> 2️⃣ 분석 및 설계: </strong> 05.06 - 05.16 <br>
+<strong> 3️⃣ 메인 서비스 구축: </strong> 05.14 - 05.29 <br>
+<strong> 4️⃣ 서비스 점검: </strong> 05.29 - 05.30 <br>
 
 <br>
 <br>
@@ -63,4 +63,23 @@
 <br>
 <br>
 
-## 팀원
+## 👩‍👩‍👧‍👦 팀원
+<br>
+<img src="assets/%ED%8C%80%EC%9B%90.png" width = 600 height = 300>
+
+<br>
+
+|**이름**|**깃허브 주소**|
+|:---:|:---:|
+|**김예린**|[ererink](https://github.com/ererink)|
+|**박창현**|[gyeoul](https://github.com/gyeoul)|
+|**윤소민**|[sowowowos](https://github.com/sowowowos)|
+|**조아영**|[AyoungJo](https://github.com/AyoungJo)|
+
+<br>
+<br>
+
+## 💬 협업 기록
+<a href="https://www.notion.so/CLOVER-41d8a1b2a77f4be887f2df23cc73c67f">서비스 기획 및 회의록 노션</a>
+<br>
+<a href="https://www.notion.so/df063435b071410b84ba72a5f6f56162?v=21fe9f3a04d5410ca1085de601c06be3">명세서</a>
